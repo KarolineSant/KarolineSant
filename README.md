@@ -8,8 +8,8 @@ ________________________________________________________________________________
 ### Hello, Devs 👋
 
 Tenho 25 anos, moro em São Paulo e comecei minha carreira em desenvolvimento a pouco mais de 1 ano. 
-Sou iniciante nesse meio de tecnolocia e por isso, tenho adquirido bastante bagagem e tentado me conectar com o maior número de tecnologias possíveis. 
-Tenho um perfil curioso e por isso, acabo sempre me aventurando em novas linguagens e frameworks. 
+</br>Sou iniciante nesse meio de tecnolocia e por isso, tenho adquirido bastante bagagem e tentado me conectar com o maior número de tecnologias possíveis. 
+</br>Tenho um perfil curioso e por isso, acabo sempre me aventurando em novas linguagens e frameworks. 
 
 Atualmente, trabalho como desenvolvedora .NET CORE e venho me aperfeiçoando nos conceitos de Clean Architecture.
 
